@@ -1,0 +1,151 @@
+body {
+  text-align: center;
+  font-family: verdana, sans-serif;
+  color: #40514E;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+  margin-bottom: 100px;
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 200px auto;
+}
+
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6f6;
+}
+.img {
+  height: 300px;
+    width: 300px;
+    border-radius: 100%;
+  }
+
+  .contact-me{
+    width: 40%;
+    margin: 50px auto 60px;
+
+  }
+
+  .copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0 0;
+  }
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+
+.angel{
+  position: absolute;
+  left: 100px;
+  top: 350px;
+  height: 50px;
+    width: 50px;
+
+}
+.mary{
+  position: absolute;
+  right: 100px;
+  top: 350px;
+  height: 50px;
+    width: 50px;
+}
+
+.baby{
+  position:absolute;
+  right:  600px;
+  top: 350px;
+  height: 50px;
+    width: 50px;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.profile{
+  margin-top: 100px;
+}
+.skills{
+
+    margin: 0 auto 0 auto;
+
+
+}
+.beef{
+
+    width: 30%;
+    border-radius: 100%;
+    margin: -50px auto 30px auto;
+    float: right;
+
+}
+.low{
+  margin-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 130px auto;
+  text-align: left;
+
+}
+.tag{
+  width: 50%;
+  float: left;
+  margin-right: 20px;
+  margin-top: 15px;
+  border-radius: 100%;
+}
+.shift{
+  position: relative;
+  margin-top: 20px;
+}
+.dot{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin-bottom: 0;
+}
+.topic{
+  margin-bottom: 100px;
+}
